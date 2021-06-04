@@ -6,4 +6,5 @@
 - running on repl? clone this on replit.com
 - running on glitch? clone this on glitch.com
 
-hope you enjoy this and goodbye! 
+hope you enjoy this and goodbye
+             🙃
