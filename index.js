@@ -17,4 +17,4 @@ if(message.content === "embed") {
 }
 })
 
-client.login("your token here")
+client.login("your token")
